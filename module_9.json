@@ -1,0 +1,15 @@
+{
+  "name": "quantum-conduit-2557",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5505,
+    "createdAt": "2026-09-08T11:10:22.507Z"
+  }
+}
